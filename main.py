@@ -48,13 +48,13 @@ async def process_json_url(request: URLRequest):
     mapped_sections = []
     for result in results:
         try:
-            relevance_score = float(result.get("relevance_score", 0))
-            if relevance_score > 0.7:
+            is_relevant = result.get("is_relevant", "").lower()
+            if is_relevant == "yes":
                 relevant_chapters.append(result)
                 if "mapped_requirements" in result and result["mapped_requirements"] != ["None"]:
                     mapped_sections.extend(result["mapped_requirements"])
-        except (ValueError, TypeError):
-            logger.warning(f"Invalid relevance score: {result.get('relevance_score')}")
+        except Exception as e:
+            logger.warning(f"Error processing result: {e}")
     
     logger.info(f"Saving results...")
     logger.info(f"Total chapters processed: {len(results)}")

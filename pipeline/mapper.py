@@ -55,7 +55,7 @@ def map_chapters(document_content, chapter_content):
     ]
 
     response = completion(
-        model="openrouter/openai/gpt-4o-mini",
+        model="openrouter/moonshotai/kimi-k2",
         messages=messages,
         temperature=0.1
     )
