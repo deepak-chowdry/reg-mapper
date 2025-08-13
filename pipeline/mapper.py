@@ -73,7 +73,7 @@ def map_chapters(document_content, chapter_content):
                 output_text = output_text[start_idx:end_idx].strip()
         
         result = json.loads(output_text)
-        logger.info(f"Is relevant {result.get("is_relevant", "None")}")
+        logger.info(f"Is relevant {result.get('is_relevant', 'None')}")
     except Exception as e:
         result = {
             "error": str(e),
