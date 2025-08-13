@@ -19,5 +19,5 @@ EXPOSE 8080
 # Define environment variable
 ENV PORT 8080
 
-# Run the FastAPI app directly
-CMD uvicorn main:app --host 0.0.0.0 --port $PORT
+# Run app.py when the container launches
+CMD uvicorn main:app --host 0.0.0.0 --port ${PORT:-8080}
