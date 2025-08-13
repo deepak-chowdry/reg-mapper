@@ -1,0 +1,48 @@
+# .gitignore for Python projects
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env/
+.venv/
+ENV/
+venv/
+.envrc
+*.log
+*.sqlite3
+*.db
+.DS_Store
+.ipynb_checkpoints/
+*.bak
+*.swp
+.idea/
+.vscode/
+.one_drive_cache/
+*.tmp
+*.cache/
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Ignore Docker artifacts
+docker-compose.override.yml
+
+# Ignore test and coverage outputs
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+coverage.xml
+
+# Ignore local data
+local_data/
+
+# Ignore segmentation outputs
+outputs/
+
+.env
+.env.*
