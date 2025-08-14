@@ -1,6 +1,6 @@
 [
   {
-    "Part": "Part 1",
+    "Part": "Part 2",
     "Title": "Part 2: General Consumer Protection Requirements",
     "chapters": [
       {
@@ -660,6 +660,382 @@
             "id": "section_129",
             "title": "129. Regulated entities negotiating with debt management firms",
             "content": "Where a regulated entity is a creditor of a consumer and negotiates with a debt management firm for the discharge of a debt of that consumer, in circumstances where the debt management firm is providing debt management services to that consumer, the regulated entity shall allow a minimum of 5 working days for the consumer to consider any proposed outcome of the negotiations before taking any action."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Part": "Part 4",
+    "Title": "Part 4: Insurance",
+    "chapters": [
+      {
+        "chapter_num": 1,
+        "chapter_title": "Preliminary",
+        "sections": [
+          {
+            "id": "section_307",
+            "title": "307. Interpretation (Part 4)",
+            "content": "In this Part – “Act of 2019” means the Consumer Insurance Contracts Act 2019 (No. 53 of 2019); “method of direct settlement” means a method of settlement whereby an insurance undertaking provides or arranges for a repair, replacement or reinstatement of property rather than paying a monetary sum in settlement of a claim; “Personal Injuries Resolution Board” means the Personal Injuries Resolution Board established under the Personal Injuries Resolution Board Acts 2003 to 2022, or any successor thereto."
+          }
+        ]
+      },
+      {
+        "chapter_num": 2,
+        "chapter_title": "Additional business requirements",
+        "sections": [
+          {
+            "id": "section_308",
+            "title": "308. Receipt to be provided - insurance intermediaries",
+            "content": "Where an insurance intermediary provides a receipt to a consumer in accordance with Regulation 122, the receipt shall, in addition to the information specified in Regulation 122(2), state that the acceptance by the insurance intermediary of a completed insurance proposal does not itself constitute the effecting of a policy of insurance, where relevant."
+          }
+        ]
+      },
+      {
+        "chapter_num": 3,
+        "chapter_title": "Premium Handling",
+        "sections": [
+          {
+            "id": "section_309",
+            "title": "309. Non-application of Chapter",
+            "content": "(1) This Chapter does not apply to an insurance intermediary where - List: the State is not the insurance intermediary’s home Member State, and; responsibility for the requirements referred to in this Chapter is reserved to the insurance intermediary’s home Member State competent authority in accordance with Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016[1]. (2) In this Regulation, “home Member State” has the meaning given to it in Regulation 2 of the Insurance Distribution Regulations."
+          },
+          {
+            "id": "section_310",
+            "title": "310. Client premium account",
+            "content": "(1) An insurance intermediary shall lodge funds received in respect of a premium or a premium rebate to a segregated bank account. (2) An insurance intermediary shall ensure that an account opened and operated in accordance with paragraph (1) is designated “Client Premium Account”. (3) An insurance intermediary shall operate separate client premium accounts for life insurance business and non-life insurance business. (4) An insurance intermediary shall ensure that all payments from a client premium account operated by the insurance intermediary clearly state that the payment emanated from a client premium account. (5) An insurance intermediary shall ensure that a client premium account operated by the insurance intermediary is not overdrawn."
+          },
+          {
+            "id": "section_311",
+            "title": "311. Permitted payments into and out of client premium account",
+            "content": "(1) An insurance intermediary shall ensure that only the following are paid into a client premium account maintained in accordance with Regulation 310: List: funds received from a consumer in respect of the renewal of an insurance policy, which has been invited by an insurance undertaking, or a proposal for insurance accepted by an insurance undertaking;; funds received from a regulated entity representing a premium rebate intended for transmission to a consumer;; a transfer from another client premium account operated by the insurance intermediary for the same form of insurance;; a transfer from an office account of the insurance intermediary to allow an amount to be maintained in the client premium account to cover the costs of the account, and any such transfers shall be clearly identifiable in terms of their source and purpose;; proceeds received from a regulated entity in respect of the settlement of a claim intended for transmission to the claimant;; any interest accruing on the funds in the account;; a mixed remittance consisting of premium and non-premium funds in accordance with paragraph (3)(a). (2) An insurance intermediary shall ensure that only the following are paid out of a client premium account maintained in accordance with Regulation 310: List: funds paid to a regulated entity for renewal of an insurance policy, which has been accepted by an insurance undertaking, or a proposal, accepted by an insurance undertaking;; funds paid to a consumer or, where there is an agreement in place between the insurance intermediary and another insurance intermediary as referred to in Regulation 350, funds transferred to that other insurance intermediary for payment to a consumer, and which in either case represents a rebate of a premium received from an insurance undertaking;; commissions and fees paid to the insurance intermediary where there is documentary evidence that these funds are properly due to the insurance intermediary;; a transfer to another client premium account operated by the insurance intermediary for the same form of insurance;; a payment of a settlement amount in satisfaction of a claim to a consumer;; any interest payable on the funds in the account;; the portion of a mixed remittance that consists of non-premium funds in accordance with paragraph (3)(b);; a payment in respect of a charitable donation in accordance with Regulation 349;; bank charges, where these are paid out of the amount referred to in paragraph (1)(d). (3) Where an insurance intermediary receives a mixed remittance consisting of premium and non-premium funds, the insurance intermediary shall ensure that- List: the total amount of the mixed remittance is first lodged to the appropriate client premium account, and; the portion of that mixed remittance that consists of non-premium funds is transferred to or to the order of the consumer without delay."
+          },
+          {
+            "id": "section_312",
+            "title": "312. Client premium account - reconciliation",
+            "content": "An insurance intermediary shall undertake a detailed reconciliation to establish the balance on each client premium account it operates on a monthly basis and, in so doing, ensure that funds in the account correspond to amounts due to regulated entities."
+          }
+        ]
+      },
+      {
+        "chapter_num": 4,
+        "chapter_title": "Differential pricing",
+        "sections": [
+          {
+            "id": "section_313",
+            "title": "313. Interpretation (Chapter 4)",
+            "content": "In this Chapter – “close matched product” means a home insurance product or motor insurance product which provides a consumer with core cover and benefits which are broadly equivalent to the core cover and benefits enjoyed by the consumer under their existing home insurance or motor insurance policy; “closed book” means an individual home insurance product or motor insurance product in respect of which its policies are not available for renewal by way of first renewal; “equivalent first renewal price” means the price an insurance undertaking or insurance intermediary would offer to a consumer upon the first renewal of a particular home insurance policy or motor insurance policy; “first renewal ” means any renewal of a home insurance policy or a motor insurance policy by a consumer which is a first renewal of such home insurance policy or motor insurance policy; “first renewal price” means the price an insurance undertaking or insurance intermediary offers to a consumer upon the first renewal of a home insurance policy or motor insurance policy; “related additional financial service” means a financial service related to a home insurance policy or a motor insurance policy sold to a consumer at the same time as the insurance policy; “subsequent renewal” means any renewal of a home insurance policy or a motor insurance policy by a consumer subsequent to the first renewal of the home insurance policy or motor insurance policy; “subsequent renewal price” means the price offered by an insurance undertaking or insurance intermediary to a consumer to renew a home insurance policy or motor insurance policy on any renewal subsequent to the first renewal of the insurance policy, including where more than one policy is sold together as part of a package; “tenure” means the number of years a consumer has held their insurance policy, including any renewal of the insurance policy."
+          },
+          {
+            "id": "section_314",
+            "title": "314. Scope and application (Chapter 4)",
+            "content": "This Chapter applies to insurance undertakings and insurance intermediaries in relation to the following activities: List: setting the subsequent renewal price;; setting the price for any related additional financial service sold to the consumer at the subsequent renewal of a home insurance policy or motor insurance policy."
+          },
+          {
+            "id": "section_315",
+            "title": "315. Setting subsequent renewal prices",
+            "content": "(1) An insurance undertaking or insurance intermediary shall not set a subsequent renewal price that is higher than the equivalent first renewal price. (2) Subject to paragraph (3) and Regulation 316, in determining the equivalent first renewal price, an insurance undertaking or insurance intermediary shall apply the following assumptions: List: that the consumer has used the same channel that the consumer most recently used for the purposes of renewing their insurance policy;; that the consumer has selected the same payment method as they currently use to pay for the insurance policy. (3) Where an insurance undertaking or insurance intermediary no longer accepts renewals through the channel that the consumer most recently used to renew the insurance policy, the insurance undertaking or insurance intermediary shall assume that the consumer used the channel most commonly used by consumers of the regulated entity."
+          },
+          {
+            "id": "section_316",
+            "title": "316. Closed books",
+            "content": "(1) Where a consumer’s insurance policy is in a closed book, the insurance undertaking or insurance intermediary shall determine the consumer’s equivalent first renewal price in accordance with this Regulation. (2) The insurance undertaking or insurance intermediary shall identify from the home insurance and motor insurance products that it currently actively markets or distributes, whether it has one or more home insurance or motor insurance product that is a close matched product. (3) Where the insurance undertaking or insurance intermediary no longer actively markets or distributes any home insurance or motor insurance product which is a close matched product but it is part of a group which does actively market or distribute home insurance or motor insurance products, the insurance undertaking or insurance intermediary shall, where possible, identify a close matched product from those products actively marketed or distributed by the insurance undertaking’s or insurance intermediary’s group. (4) Where there is more than one product which is a close matched product, the insurance undertaking or insurance intermediary shall either- List: select the close matched product which is the most similar to the consumer’s existing insurance policy, or; where it is not possible to identify the most similar close matched product, select the close matched product which will lead to the most favourable pricing outcome for consumers who hold an insurance policy in the closed book. (5) List: Where a close matched product is identified or selected, the equivalent first renewal price for a consumer in the relevant book shall be the equivalent first renewal price the insurance undertaking or insurance intermediary would offer for the close matched product, subject to any permitted adjustments set out in subparagraph (b) and, where appropriate, the assumptions set out at Regulations 315(2) and 315(3).; (b) The permitted adjustments are those which fairly and proportionately reflect the difference in costs for the insurance undertaking or insurance intermediary arising from differences between the cost to serve or cover or benefits (including any compulsory excess) provided by the insurance policies in the closed book and the close matched product. (6) Where an insurance undertaking or insurance intermediary is unable to generate an equivalent first renewal price or identify a product which is a close matched product because an insurance policy - List: is not part of an insurance undertaking’s or insurance intermediary’s or its group’s standard insurance policy offering,; falls outside the insurance undertaking’s or insurance intermediary’s or its group’s underwriting policies, or; although part of its group’s standard policy offering, is not an insurance policy in respect of which the insurance undertaking’s or the insurance intermediary’s group may share the relevant pricing information, the insurance undertaking or insurance intermediary shall set the subsequent renewal price in accordance with Regulation 321."
+          },
+          {
+            "id": "section_317",
+            "title": "317. Insurance intermediaries’ involvement in setting price",
+            "content": "An insurance intermediary that is involved in the setting of any portion of the subsequent renewal price of an insurance policy shall ensure that the portion the insurance intermediary sets or its contribution to that portion is set at a level that is no higher than it would be set for a first renewal."
+          },
+          {
+            "id": "section_318",
+            "title": "318. Responsibility of insurance undertaking or insurance intermediary where more than one insurance undertaking or insurance intermediary is involved in setting the subsequent renewal price",
+            "content": "Where more than one insurance undertaking or insurance intermediary is jointly responsible for setting the subsequent renewal price, each insurance undertaking or insurance intermediary shall take reasonable steps to assure itself that the subsequent renewal price is set in accordance with Regulations 314 to 321."
+          },
+          {
+            "id": "section_319",
+            "title": "319. Related additional financial services",
+            "content": "Subject to Regulation 320, an insurance undertaking or insurance intermediary that has responsibility for setting the price of a related additional financial service that is available to a consumer in connection with a home insurance policy or motor insurance policy shall ensure that the price of the related additional financial service at the subsequent renewal of the home insurance policy or motor insurance policy is no higher than the price at which the related additional financial service would be offered to the consumer at first renewal."
+          },
+          {
+            "id": "section_320",
+            "title": "320. Related additional financial services where financial service no longer available at first renewal",
+            "content": "Where an insurance undertaking or insurance intermediary no longer offers to consumers at first renewal a related additional financial service which is available to a consumer in connection with the subsequent renewal of a home insurance policy or motor insurance policy, the price for that related additional financial service shall be set as follows: List: where the related additional financial service is an insurance policy, the insurance undertaking or insurance intermediary shall, subject to any necessary modifications: apply the requirements in respect of closed books in accordance with Regulation 316; orif the related additional financial service has no close matched product, apply Regulation 321;; apply the requirements in respect of closed books in accordance with Regulation 316; or; if the related additional financial service has no close matched product, apply Regulation 321;; where the related additional financial service is not an insurance policy, the insurance undertaking or insurance intermediary shall apply Regulation 321. List: apply the requirements in respect of closed books in accordance with Regulation 316; or; if the related additional financial service has no close matched product, apply Regulation 321;"
+          },
+          {
+            "id": "section_321",
+            "title": "321. Firms’ assurance over consumer outcomes",
+            "content": "(1) An insurance undertaking or insurance intermediary shall ensure that it does not systematically discriminate against consumers based on their tenure, when determining any of the following: List: an equivalent first renewal price;; the subsequent renewal price for consumers in closed books where an insurance undertaking or insurance intermediary is unable to identify a close matched product;; the price for any related additional financial service sold to the consumer at subsequent renewal of an insurance policy;; any other matter provided for under Regulations 314 to 321. (2) An insurance undertaking or insurance intermediary shall ensure that the equivalent first renewal price does not systematically exceed the first renewal price for consumers."
+          },
+          {
+            "id": "section_322",
+            "title": "322. Annual review and record keeping",
+            "content": "(1) An insurance undertaking or insurance intermediary shall carry out, within 2 months of each year end, an annual review of its home insurance and motor insurance pricing policies and processes in order to assess the following - List: whether the insurance undertaking or insurance intermediary complies with the obligation, set out at Regulation 321, that the insurance undertaking or insurance intermediary shall not systematically discriminate against consumers based on tenure;; whether the equivalent first renewal price for consumers of longer tenure systematically exceeds the first renewal price for consumers;; whether adequate controls are in place, including controls to ensure that any pricing models used do not-generate prices which are systematically higher the longer a consumer’s tenure, orimpair the insurance undertaking’s or insurance intermediary’s obligation to comply with Regulations 4(1)(a), (b) and (d) of the Central Bank Reform Act 2010 (Section 17A) (Standards for Business) Regulations 2025.; generate prices which are systematically higher the longer a consumer’s tenure, or; impair the insurance undertaking’s or insurance intermediary’s obligation to comply with Regulations 4(1)(a), (b) and (d) of the Central Bank Reform Act 2010 (Section 17A) (Standards for Business) Regulations 2025. List: generate prices which are systematically higher the longer a consumer’s tenure, or; impair the insurance undertaking’s or insurance intermediary’s obligation to comply with Regulations 4(1)(a), (b) and (d) of the Central Bank Reform Act 2010 (Section 17A) (Standards for Business) Regulations 2025. (2) An insurance undertaking or insurance intermediary shall, following the annual review referred to in paragraph (1), rectify any deficiencies identified in its pricing policies and processes. (3) An insurance undertaking or insurance intermediary shall retain written records of the annual review referred to in paragraph (1), including the action taken to rectify any deficiencies found. (4) Prior to implementing a material decision in relation to the insurance undertaking’s or insurance intermediary’s compliance with Regulations 314 to 321, an insurance undertaking or insurance intermediary shall keep a record in writing of its consideration of the extent to which that decision is consistent with Regulations 314 to 321."
+          }
+        ]
+      },
+      {
+        "chapter_num": 5,
+        "chapter_title": "Automatic renewals",
+        "sections": [
+          {
+            "id": "section_323",
+            "title": "323. Scope and application (Chapter 5)",
+            "content": "This Chapter applies to insurance undertakings and insurance intermediaries in respect of policies of non-life insurance."
+          },
+          {
+            "id": "section_324",
+            "title": "324. Automatic renewals - cancellations",
+            "content": "An insurance undertaking or insurance intermediary shall allow a consumer to exercise the right to cancel the automatic renewal of an insurance policy - List: at any time during the duration of the insurance policy, and; free of charge."
+          },
+          {
+            "id": "section_325",
+            "title": "325. Automatic renewals – notifications in respect of policies with a duration of 10 months or more",
+            "content": "(1) Where an insurance undertaking or an insurance intermediary proposes to automatically renew a consumer’s insurance policy, with a duration of 10 months or more, the insurance undertaking or insurance intermediary shall provide a notification on paper or on another durable medium to the consumer at least 20 working days prior to the renewal date of the insurance policy which shall include the following: List: a statement that the insurance policy will renew automatically if the consumer does not cancel the automatic renewal before a specified date;; details on how the consumer can stop the automatic renewal of the insurance policy if the consumer does not wish to automatically renew, including -the existence of the right to cancel the automatic renewal of the insurance policy, the conditions for exercising the right to cancel the automatic renewal of the insurance policy, the consequences of exercising the right to cancel the automatic renewal of the insurance policy, andthe practical steps required for exercising the right to cancel the automatic renewal of the insurance policy, including, at a minimum, the options available for cancelling the automatic renewal of the insurance policy;; the existence of the right to cancel the automatic renewal of the insurance policy,; the conditions for exercising the right to cancel the automatic renewal of the insurance policy,; the consequences of exercising the right to cancel the automatic renewal of the insurance policy, and; the practical steps required for exercising the right to cancel the automatic renewal of the insurance policy, including, at a minimum, the options available for cancelling the automatic renewal of the insurance policy;; except where Section 14(6) of the Act of 2019 applies, confirmation of any changes to the terms of the insurance policy upon renewal;; details of any fee payable specifically in respect of the automatic renewal of the insurance policy and the services provided for such fee;; the website address of the relevant section of the Competition and Consumer Protection Commission’s website and, where relevant, the Health Insurance Authority’s website relating to getting insurance quotes;; a statement that the consumer should keep their insurance arrangements under review as there may be other alternatives in the market that could provide savings for the consumer for similar cover. List: the existence of the right to cancel the automatic renewal of the insurance policy,; the conditions for exercising the right to cancel the automatic renewal of the insurance policy,; the consequences of exercising the right to cancel the automatic renewal of the insurance policy, and; the practical steps required for exercising the right to cancel the automatic renewal of the insurance policy, including, at a minimum, the options available for cancelling the automatic renewal of the insurance policy; (2) Where an automatic renewal arrangement of a consumer’s insurance policy, with a duration of 10 months or more, is in place and the insurance undertaking or insurance intermediary does not propose to renew such insurance policy, the insurance undertaking or insurance intermediary shall provide a notification on paper or on another durable medium to the consumer at least 20 working days prior to the renewal date that the insurance undertaking or insurance intermediary does not wish to invite a renewal. (3) Paragraph (2) does not apply where Regulation 5(1)(b) of the Non-Life Insurance (Provision of Information) Regulations 2007 (S.I. No. 74 of 2007) applies."
+          },
+          {
+            "id": "section_326",
+            "title": "326. Automatic renewals – notifications in respect of policies with a duration of less than 10 months",
+            "content": "(1) Where an insurance undertaking or an insurance intermediary proposes to automatically renew a consumer’s insurance policy, with a duration of less than 10 months, the insurance undertaking or insurance intermediary shall provide a notification on paper or on another durable medium to the consumer, at least once a year from the date of entry into of the insurance policy for so long as the insurance policy continues to be renewed, which shall include the following: List: a statement that the insurance policy renews automatically including the frequency of the automatic renewal and any end date of such automatic renewal;; details on how the consumer can stop the automatic renewal of the insurance policy if the consumer does not wish to automatically renew, including -the existence of the right to cancel the automatic renewal of the insurance policy, the conditions for exercising the right to cancel the automatic renewal of the insurance policy, the consequences of exercising the right to cancel the automatic renewal of the insurance policy, andthe practical steps required for exercising the right to cancel the automatic renewal of the insurance policy, including, at a minimum, the options available for cancelling the automatic renewal of the insurance policy;; the existence of the right to cancel the automatic renewal of the insurance policy,; the conditions for exercising the right to cancel the automatic renewal of the insurance policy,; the consequences of exercising the right to cancel the automatic renewal of the insurance policy, and; the practical steps required for exercising the right to cancel the automatic renewal of the insurance policy, including, at a minimum, the options available for cancelling the automatic renewal of the insurance policy;; details of any fee payable specifically in respect of the automatic renewal of the insurance policy and the services provided for such fee;; the website address of the relevant section of the Competition and Consumer Protection Commission’s website and, where relevant, the Health Insurance Authority’s website relating to getting insurance quotes;; a statement that the consumer should keep their insurance arrangements under review as there may be other alternatives in the market that could provide savings for the consumer for similar cover. List: the existence of the right to cancel the automatic renewal of the insurance policy,; the conditions for exercising the right to cancel the automatic renewal of the insurance policy,; the consequences of exercising the right to cancel the automatic renewal of the insurance policy, and; the practical steps required for exercising the right to cancel the automatic renewal of the insurance policy, including, at a minimum, the options available for cancelling the automatic renewal of the insurance policy; (2) Where an automatic renewal arrangement of a consumer’s insurance policy, with a duration of less than 10 months, is in place and the insurance undertaking or insurance intermediary does not propose to renew such insurance policy, the insurance undertaking or insurance intermediary shall provide a notification on paper or on another durable medium to the consumer prior to the renewal date that the insurance undertaking or insurance intermediary does not wish to invite a renewal. (3) Paragraph (2) does not apply where Regulation 5(1)(b) of the Non-Life Insurance (Provision of Information) Regulations 2007 applies."
+          },
+          {
+            "id": "section_327",
+            "title": "327. Automatic renewal of pet insurance, travel insurance, gadget insurance or dental insurance (G)",
+            "content": "(1) An insurance undertaking or insurance intermediary shall not automatically renew a policy of pet insurance, travel insurance, gadget insurance or dental insurance with a consumer unless the consumer has, prior to the entry into of the insurance policy which is being renewed, provided their consent to such automatic renewal. (2) Paragraph (1) shall apply only in relation to an insurance policy which is first entered into after the commencement of these Regulations (and to the renewal of such a policy after the commencement of these Regulations). (3) In this Regulation – “dental insurance” means insurance the sole purpose of which is to provide for the making of payments by an insurance undertaking for the reimbursement or discharge, in whole or in part, of fees or charges in respect of dental expenses or services and related ancillary benefits; “gadget insurance” means insurance which provides cover against the risk of breakdown, theft, loss, or damage, solely in respect of one or more personal electronic devices."
+          }
+        ]
+      },
+      {
+        "chapter_num": 6,
+        "chapter_title": "Information about insurance products specifically",
+        "sections": [
+          {
+            "id": "section_328",
+            "title": "328. Information to be provided in insurance quotation - general",
+            "content": "(1) An insurance undertaking or insurance intermediary shall provide the following information in any insurance quotation: List: the monetary amount of the quotation;; the period of time for which the quotation is valid;; the registered legal name of the proposed underwriter of the insurance policy. (2) In this Regulation and in Regulations 329 to 330, the term “insurance quotation” shall be understood to include a renewal notification containing an insurance quotation."
+          },
+          {
+            "id": "section_329",
+            "title": "329. Information to be provided in insurance quotation – warranties and endorsements",
+            "content": "(1) An insurance undertaking or insurance intermediary shall set out clearly any warranties or endorsements that apply to an insurance policy in an insurance quotation provided to a consumer. (2) If the insurance quotation is provided on paper or on another durable medium, the information referred to in paragraph (1) shall not be in a smaller font size than is used for other information appearing in the document."
+          },
+          {
+            "id": "section_330",
+            "title": "330. Information to be provided in insurance quotation – discounts or loadings",
+            "content": "An insurance undertaking or insurance intermediary shall set out clearly in an insurance quotation – List: any discount or loading that has been applied in generating the insurance quotation for a consumer, including the monetary value and percentage of any discount or loading that has been so applied, and; the premium that would apply in the absence of any such discount or loading."
+          },
+          {
+            "id": "section_331",
+            "title": "331. Policy documentation to state name of underwriter",
+            "content": "An insurance undertaking or insurance intermediary shall state the registered legal name of the underwriter of the insurance policy on all policy documentation issued to a consumer."
+          },
+          {
+            "id": "section_332",
+            "title": "332. Information to be provided about disclosure obligations",
+            "content": "(1) Where a consumer is applying for an insurance policy, an insurance undertaking or insurance intermediary shall notify the consumer, on paper or on another durable medium, of the possible consequences for the consumer of failing to comply with the duty of disclosure applicable to that consumer. (2) The notification referred to in paragraph (1) shall include the following consequences, as applicable: List: that a policy may be cancelled;; that claims may not be paid;; that the consumer may encounter difficulty in trying to purchase insurance elsewhere;; in the case of property insurance, that the failure to have property insurance in place, including by way of cancellation, could lead to a breach of the terms and conditions attaching to any loan secured on that property."
+          },
+          {
+            "id": "section_333",
+            "title": "333. Information to be provided about permanent health insurance",
+            "content": "(1) Prior to a consumer completing a proposal form for a permanent health insurance policy, an insurance undertaking or insurance intermediary shall explain the following to a consumer: List: the meaning of disability as defined in the policy;; any benefit available under the policy;; the exclusions that apply to the policy;; any reduction applied to any available benefit if the consumer receives a disability payment from another source. (2) In this Regulation, “permanent health insurance policy” means a policy of insurance of class 4 as set out in Schedule 2 to the Insurance and Reinsurance Regulations, or class IV as set out in Annex I to the European Communities (Life Assurance) Framework Regulations 1994."
+          },
+          {
+            "id": "section_334",
+            "title": "334. Information to be provided about serious or critical illness insurance",
+            "content": "Prior to a consumer completing a proposal form for a serious or critical illness policy, an insurance undertaking or insurance intermediary shall explain to the consumer any restriction, condition or exclusion applicable to the policy."
+          },
+          {
+            "id": "section_335",
+            "title": "335. Information to be provided about property or motor insurance",
+            "content": "Prior to offering a property or motor insurance policy to a consumer, an insurance undertaking or insurance intermediary shall explain to the consumer that the insurance undertaking may, where relevant, appoint its own expert to undertake restitution work on a property or motor vehicle."
+          },
+          {
+            "id": "section_336",
+            "title": "336. Refusal to quote for motor or property insurance",
+            "content": "(1) An insurance undertaking that refuses to quote a consumer for motor insurance shall do the following within 5 working days of the date of its decision to refuse: List: inform the consumer of its decision to refuse;; provide the consumer with the reasons for refusing cover;; notify the consumer of their right to refer the matter to the Declined Cases Committee and provide details of the process for such a referral;; inform the consumer that they may request that the information in subparagraphs (a) to (c) be provided to them on paper or on another durable medium. (2) An insurance undertaking that refuses to quote a consumer for property insurance shall do the following within 5 working days of the date of its decision to refuse: List: inform the consumer of its decision to refuse;; provide the consumer with the reasons for refusing cover;; notify the consumer that failure to insure a property may result in a breach of terms and conditions of any loan agreement which has been secured on that property;; inform the consumer that they may request that the information in subparagraphs (a) to (c) be provided to them on paper or on another durable medium. (3) Where a consumer makes a request in accordance with paragraph (1)(d) or 2(d), an insurance undertaking shall provide this information on paper or on another durable medium within 5 working days of the request."
+          },
+          {
+            "id": "section_337",
+            "title": "337. Information to be provided where premium may be subject to review",
+            "content": "(1) Prior to offering, recommending, arranging or providing an insurance policy where the premium payable by the consumer may be subject to review by the insurance undertaking during the term of the policy, an insurance undertaking or insurance intermediary shall - List: explain clearly to the consumer the risk that the premium may increase, and; provide the consumer with details of the time period for which the initial premium is fixed. (2) An insurance undertaking shall include a warning statement in the following format on the application form for an insurance policy of the kind referred to in paragraph (1), inserting the appropriate information in place of the instruction in square brackets for that purpose: “Warning: The Premium [insert ‘may’ or ‘will’ as appropriate] increase after [insert period of time for which the premium is fixed].” (3) This Regulation does not apply where the premium payable by a consumer may be subject to review as a result of an amendment to the policy requested by the consumer."
+          },
+          {
+            "id": "section_338",
+            "title": "338. Insurance quotation – explanation of difference in cost between payment of premium by lump sum or by instalment",
+            "content": "(1) When providing an insurance quotation to a consumer, an insurance undertaking or insurance intermediary shall explain any difference in cost between paying the premium by way of a lump sum or in instalments. (2) The explanation referred to in paragraph (1) shall detail the monetary value of any difference arising between the 2 options. (3) In this Regulation, the term “insurance quotation” shall be understood to include a renewal notification containing an insurance quotation."
+          },
+          {
+            "id": "section_339",
+            "title": "339. Consent to be obtained for follow up telephone communication in respect of an insurance quotation provided on a digital platform",
+            "content": "(1) Notwithstanding Regulations 109 and 110, where a consumer requests an insurance quotation from an insurance undertaking or insurance intermediary on a digital platform or via a website, the insurance undertaking or insurance intermediary shall not make follow up oral communication by means of telephone call for the purposes of discussing the insurance quotation unless the consumer has provided his or her consent to it doing so. (2) Paragraph (1) is subject to the further condition that the making of the follow up telephone call is not prohibited under any other applicable law."
+          }
+        ]
+      },
+      {
+        "chapter_num": 7,
+        "chapter_title": "Knowing the Consumer and Suitability – Insurance Specific Provisions",
+        "sections": [
+          {
+            "id": "section_340",
+            "title": "340. Statement of suitability where immediate cover required",
+            "content": "In the case of an insurance policy where immediate cover is required by a consumer, the statement of suitability referred to in Regulation 18(1) may be issued to the consumer prior to, or within 5 working days of, the insurance policy being entered into."
+          },
+          {
+            "id": "section_341",
+            "title": "341. Statement of suitability in the case of travel, motor or home insurance",
+            "content": "In the case of a policy of travel, motor or home insurance provided to a personal consumer, the statement of suitability referred to in Regulation 18(1) may be in a common format."
+          }
+        ]
+      },
+      {
+        "chapter_num": 8,
+        "chapter_title": "Post-sale Information Requirements - Information about Insurance Products",
+        "sections": [
+          {
+            "id": "section_342",
+            "title": "342. Issuance of insurance policy",
+            "content": "(1) An insurance undertaking shall issue an insurance policy, within 5 working days of the insurance policy being entered into, to any consumer to whom it has sold its insurance policy directly or to any insurance intermediary that has sold its insurance policy. (2) On receipt of the insurance policy issued in accordance with paragraph (1), an insurance intermediary shall provide the insurance policy to the consumer that purchased it within 5 working days. (3) When an insurance policy is entered into by a consumer by means of telephonic, video or other electronic communication, including through a digital platform, the insurance undertaking or, where the insurance policy was entered into by the consumer through an insurance intermediary, the insurance intermediary, shall provide the consumer with immediate digital confirmation that- List: the insurance policy is in place, and; the insurance policy documents will be issued within 5 working days. (4) In the circumstances referred to in paragraph (3), an insurance undertaking or insurance intermediary may provide the consumer with the terms of business referred to in Regulation 51 at the same time as the insurance undertaking or insurance intermediary provides the consumer with the confirmation referred to in that paragraph. (5) This Regulation shall apply equally where a consumer renews an existing policy."
+          },
+          {
+            "id": "section_343",
+            "title": "343. Terms and conditions applicable to no claims discount to be provided to consumer",
+            "content": "Where a no claims discount has been applied to the premium charged in respect of an insurance policy, an insurance undertaking or insurance intermediary shall include with the insurance policy issued to the consumer in accordance with Regulation 342, notification, on paper or on another durable medium, of the terms and conditions that apply to such discount, including any restrictions on the use or availability of the discount."
+          },
+          {
+            "id": "section_344",
+            "title": "344. Appointed claims representative",
+            "content": "When a consumer is a holder of a motor insurance policy and notifies the insurance undertaking or insurance intermediary that provided that policy of an intention to use an insured vehicle in another Member State, the insurance undertaking or insurance intermediary shall provide the consumer with contact details of the insurance undertaking’s appointed claims representative for that Member State."
+          },
+          {
+            "id": "section_345",
+            "title": "345. Information concerning surrender value of a life insurance policy",
+            "content": "(1) Where a policyholder seeks information on the early surrender of a life insurance policy from the insurance undertaking or insurance intermediary that has provided that policy and the policyholder is a consumer, the insurance undertaking or insurance intermediary shall provide the consumer with details of the surrender value of the policy. (2) If a secondary market exists for the sale of a policy of the kind referred to in paragraph (1) on which the policy may be sold, the insurance undertaking or insurance intermediary shall disclose this fact to the consumer at the same time as providing the details required in accordance with paragraph (1)."
+          },
+          {
+            "id": "section_346",
+            "title": "346. Advance notification of expiry date of a policy of non-life insurance (G)",
+            "content": "(1) An insurance undertaking or insurance intermediary shall, not less than 20 working days prior to issuing a notification to a consumer in respect of a policy of insurance pursuant to – List: Regulation 5 or Regulation 6 of the Non-Life Insurance (Provision of Information) Regulations 2007, or; Regulation 325, provide a consumer with notification on paper or on another durable medium of the date on which that policy is due to expire or fall due for renewal."
+          },
+          {
+            "id": "section_347",
+            "title": "347. Notification of lapse of cover under health insurance contract (G)",
+            "content": "(1) Subject to paragraph (2), this Regulation applies in relation to a health insurance contract entered into after the commencement of these Regulations (including a renewal in a case where the health insurance contract was concluded before such commencement). (2) This Regulation does not apply in respect of a health insurance contract under a corporate health insurance scheme arranged by an employer with an insurance undertaking for a group of employees. (3) An insurance undertaking shall notify a consumer that is a natural person aged 18 years or older within 10 working days of the consumer ceasing to be insured under a health insurance contract with that insurance undertaking. (4) The notification referred to in paragraph (3) shall inform the consumer – List: that the consumer is no longer insured under a health insurance contract with that insurance undertaking, and; the date on which the consumer ceased to be so insured. (5) Paragraphs (3) and (4) do not apply where – List: the consumer ceased to be insured under the health insurance contract referred to in paragraph (1) on account of the expiry of that health insurance contract,; the health insurance contract is immediately replaced with another health insurance contract with the same insurance undertaking, and; the consumer is insured under that replacement health insurance contract. (6) For the purposes of providing notification pursuant to paragraphs (3) and (4), an insurance undertaking shall gather contact details of each consumer that is a natural person aged 18 years or older who is insured under a health insurance contract with that insurance undertaking. (7) Paragraphs (3) and (4) do not apply where the insurance undertaking has requested contact details in accordance with paragraph (6) but has not been provided with same before the 10 working day period referred to in paragraph (3) has commenced."
+          }
+        ]
+      },
+      {
+        "chapter_num": 9,
+        "chapter_title": "Premium Rebates",
+        "sections": [
+          {
+            "id": "section_348",
+            "title": "348. Premium Rebates – Timing",
+            "content": "(1) Subject to paragraph (3), an insurance undertaking shall provide to a consumer any premium rebate that is due from the insurance undertaking to the consumer within 10 working days of the rebate becoming due. (2) For the purposes of this Regulation, a premium rebate is due from an insurance undertaking as soon as the insurance undertaking becomes aware of the circumstances giving rise to the premium rebate and determines that the premium rebate is due. (3) Where an insurance intermediary acts as agent of an insurance undertaking in respect of a consumer, the insurance undertaking shall either – List: provide to the insurance intermediary a premium rebate due from the insurance undertaking to the consumer within 5 working days of the rebate becoming due, or; notify the insurance intermediary, within 5 working days of the premium rebate becoming due, that the rebate is due and at the same time permit the intermediary to issue the premium rebate from funds held by the insurance intermediary which are due to the insurance undertaking. (4) An insurance intermediary shall provide the premium rebate referred to in paragraph (3) to the consumer within 5 working days of the insurance intermediary either – List: receiving the premium rebate referred to in paragraph (3)(a), or; receiving the notification referred to paragraph (3)(b)."
+          },
+          {
+            "id": "section_349",
+            "title": "349. Option of deduction from renewal or other premium or donation in lieu of premium rebate",
+            "content": "(1) Prior to providing a premium rebate to a consumer for the purposes of Regulation 348, an insurance undertaking or insurance intermediary may offer the consumer the choice of, instead of receiving the premium rebate, either – List: receiving a corresponding deduction from a renewal premium or other premium currently due to that insurance undertaking or insurance intermediary from the consumer, or; the insurance undertaking or insurance intermediary making a donation of the premium rebate amount to a registered charity. (2) An insurance undertaking or insurance intermediary shall obtain a consumer’s consent on each occasion for the purposes of making either a deduction in accordance with paragraph (1)(a) or a donation in accordance with paragraph (1)(b). (3) Where an insurance undertaking or insurance intermediary obtains a consumer’s consent for the purposes of paragraph (2), the insurance undertaking or insurance intermediary shall make a deduction or donation in accordance with that consent and Regulation 348 shall not apply to the insurance undertaking or insurance intermediary concerned. (4) Where an insurance undertaking or insurance intermediary does not obtain a consumer’s consent for the purposes of paragraph (2), the insurance undertaking or insurance intermediary shall provide the premium rebate to the consumer within the time period referred to in Regulation 348. (5) An insurance undertaking or insurance intermediary shall document a donation made in accordance with the consent obtained from the consumer for the purposes of paragraph (2) and shall obtain and retain a receipt from the relevant charity. (6) In this Regulation, “registered charity” means a registered charitable organisation within the meaning of section 2 of the Charities Act 2009 (No. 6 of 2009)."
+          },
+          {
+            "id": "section_350",
+            "title": "350. Premium rebate processing agreement",
+            "content": "An insurance intermediary shall process premium rebates due to consumers only on the basis of a written agreement pursuant to which the insurance intermediary acts as agent of an insurance undertaking or another insurance intermediary in processing such rebates due to consumers and pursuant to which the insurance intermediary does not become a debtor of the consumer when processing such rebates."
+          },
+          {
+            "id": "section_351",
+            "title": "351. Full rebate amount to be paid in the absence of agreement (G)",
+            "content": "(1) Subject to Regulation 349, an insurance undertaking or insurance intermediary shall provide to a consumer the full rebate amount due to the consumer by way of premium rebate. (2) For the purposes of paragraph (1), any charges that the consumer owes the insurance undertaking or insurance intermediary shall not be deducted from the rebate amount without obtaining the prior written consent of the consumer. (3) Where a consumer has agreed to the deduction of any charges for the purposes of paragraph (2), these charges shall be clearly specified by the insurance undertaking or insurance intermediary in correspondence accompanying notification of the rebate to the consumer."
+          },
+          {
+            "id": "section_352",
+            "title": "352. Return and reissue of rebate",
+            "content": "(1) Where an insurance intermediary has issued a rebate cheque to a consumer on behalf of an insurance undertaking, and the rebate cheque has not been presented for payment within 6 months from the date of issue, the insurance intermediary shall return the rebate to the insurance undertaking. (2) Where a consumer requests from an insurance undertaking or insurance intermediary a rebate that has been returned to an insurance undertaking in accordance with paragraph (1), the requested insurance undertaking or insurance intermediary shall provide the rebate in accordance with Regulations 348, 349 and 351."
+          }
+        ]
+      },
+      {
+        "chapter_num": 10,
+        "chapter_title": "Claims Processing",
+        "sections": [
+          {
+            "id": "section_353",
+            "title": "353. Scope and application (Chapter 10)",
+            "content": "(1) This Chapter does not apply where a method of direct settlement in respect of health insurance is used by an insurance undertaking in respect of a claim under a health insurance contract. (2) In this Regulation – “method of direct settlement in respect of health insurance” means a method of settlement whereby an insurance undertaking pays a health care provider directly in settlement of a claim by a policyholder under a health insurance contract, rather than paying a monetary sum to the policyholder at a later date."
+          },
+          {
+            "id": "section_354",
+            "title": "354. Verification of claims",
+            "content": "An insurance undertaking shall endeavour to verify the validity of a claim received from a claimant prior to making a decision on its outcome."
+          },
+          {
+            "id": "section_355",
+            "title": "355. Claims handling procedure",
+            "content": "(1) An insurance undertaking shall establish, maintain and adhere to a procedure for the effective and proper handling of claims. (2) The procedure referred to in paragraph (1) shall, at a minimum, provide for the following: List: where an accident or event has occurred giving rise to a personal injury claim, the insurance undertaking shall provide a copy of a guide for claimants produced by the Personal Injuries Resolution Board to a claimant as soon as the insurance undertaking is notified of the claim;; where a consumer has been involved in a motor accident with an uninsured or unidentified vehicle or with a foreign registered vehicle, the insurance undertaking shall advise the consumer to contact the Motor Insurers’ Bureau of Ireland;; where a claim form is required to be completed for the purposes of a claimant making a claim, the insurance undertaking shall provide the form to the claimant within 5 working days of it becoming apparent to the insurance undertaking that the form is required;; the insurance undertaking shall offer to assist a claimant in the process of making a claim, including, in the case of a claimant falling within paragraph (a) or (c) of the definition of “claimant”, alerting the claimant to policy terms and conditions that may be of benefit to the claimant, where relevant;; the insurance undertaking shall comply with a request from a claimant for the insurance undertaking to use a particular means of communication with the claimant in relation to a claim, unless to do so would be unreasonable or the means of communication requested by the claimant is not a means of communication currently employed by the insurance undertaking for this purpose;; the insurance undertaking shall keep a record of all conversations with the claimant in relation to the claim, including audio recordings of telephone calls where these are recorded;; where the insurance undertaking makes audio recordings of telephone calls in connection with the provision of financial services to consumers, the insurance undertaking shall make and keep audio recordings of telephone calls with a claimant in relation to a claim and shall inform a claimant at the outset of a telephone conversation that the telephone conversation is being recorded;; the insurance undertaking shall, while the claim is being processed, provide the claimant with updates of any developments concerning the outcome of the claim within 10 working days of learning of the development;; where the insurance undertaking requires additional documentation or clarification from a claimant, the insurance undertaking shall notify the claimant as soon as the additional document or clarification is required and, if necessary, the insurance undertaking shall provide the claimant with a reminder of the notification on paper or on another durable medium."
+          },
+          {
+            "id": "section_356",
+            "title": "356. Assisting a consumer in making a claim",
+            "content": "An insurance intermediary who assists a consumer in making a claim under an insurance policy shall, on receipt of the completed claims documentation in respect of that claim, transmit such documentation to the insurance undertaking with whom the policy is held within one working day."
+          },
+          {
+            "id": "section_357",
+            "title": "357. Engagement of loss adjustor or expert appraiser",
+            "content": "(1) Where an insurance undertaking engages the services of a loss adjustor or an expert appraiser, or both, for the purposes of assisting in the processing of a claimant’s claim, it shall provide the claimant with the contact details of the person engaged. (2) When an insurance undertaking provides a claimant with contact details for the purposes of paragraph (1), the insurance undertaking shall, at the same time, notify the claimant on paper or on another durable medium that the person engaged acts in the interest of the insurance undertaking and such notification shall include an explanation of the function of the person engaged."
+          },
+          {
+            "id": "section_358",
+            "title": "358. Notification that a claimant may appoint a loss assessor",
+            "content": "Within 5 working days of an insurance undertaking receiving notice of a motor insurance, property insurance, or other claim, the insurance undertaking shall, where relevant to the type of claim, notify the claimant on paper or on another durable medium that the claimant may appoint a loss assessor to act in the claimant’s interests but that any such appointment will be at the claimant’s expense."
+          },
+          {
+            "id": "section_359",
+            "title": "359. Engagement with third party in relation to a claim",
+            "content": "Upon a claimant’s written request, an insurance undertaking or insurance intermediary shall engage with a third party which a claimant has appointed to act on his or her behalf in relation to a claim."
+          },
+          {
+            "id": "section_360",
+            "title": "360. Insurance undertaking to be available to discuss claims",
+            "content": "An insurance undertaking shall be available to discuss all aspects of a claim with the claimant, including assessment of liability and damages, during normal office hours which are deemed to be between 09.00 and 17.00 on a working day."
+          },
+          {
+            "id": "section_361",
+            "title": "361. Restitution work – appointment of third party",
+            "content": "(1) Where an insurance undertaking proposes to appoint a third party to undertake restitution work in respect of the settlement of a claim, the insurance undertaking shall provide the claimant with details of the scope of the work that has been approved by the insurance undertaking for the purposes of settlement and a detailed breakdown of the proposed cost to the insurance undertaking. (2) The information referred to in paragraph (1) shall be provided to the claimant on paper or on another durable medium in advance of the appointment of the third party."
+          },
+          {
+            "id": "section_362",
+            "title": "362. Restitution work - certification",
+            "content": "(1) Where a method of direct settlement has been used, an insurance undertaking shall certify to the claimant, on paper or on another durable medium, that the restitution work undertaken by any third party appointed by the insurance undertaking to restore the claimant’s property has been undertaken in a manner in which the claimant’s property has been restored at least to the standard of the property that existed prior to the insured event. (2) An insurance undertaking shall not require a claimant to provide any form of certification of the kind referenced in paragraph (1) above on its behalf."
+          },
+          {
+            "id": "section_363",
+            "title": "363. Claim settlement offer to represent best estimate of a claimant’s reasonable entitlement",
+            "content": "(1) An insurance undertaking shall ensure that any claim settlement offer made to a claimant represents its best estimate of the claimant’s reasonable entitlement. (2) In determining that any claim settlement offer made to a claimant is its best estimate of the claimant’s reasonable entitlement, an insurance undertaking shall take into account all relevant factors, including the following: List: any evidence submitted by the claimant, or any third party acting on his or her behalf, to support the value of the claim;; any evidence made known to the insurance undertaking by a third party or evidence that should be reasonably available to the insurance undertaking;; the procedures used by the insurance undertaking in determining the monetary amount of compensation offered. (3) This Regulation does not apply to a claimant falling within paragraph (b) of the definition of “claimant” where liability is not agreed."
+          },
+          {
+            "id": "section_364",
+            "title": "364. Decision on a claim",
+            "content": "(1) Within 5 working days of making a decision in respect of a claim, an insurance undertaking shall inform the claimant of the following, on paper or on another durable medium: List: the outcome of its investigation of the claim;; where applicable, the terms of any claim settlement offer;; where the insurance undertaking has decided to decline the claim, the reasons for this decision;; any appeals mechanism provided by the insurance undertaking in respect of the decision made. (2) When making a claim settlement offer, the insurance undertaking shall ensure that the following conditions have been satisfied: List: the insured event has been proven, or accepted by the insurance undertaking;; all specified documentation has been received by the insurance undertaking from the claimant;; the entitlement of the claimant to receive payment under the policy has been established. (3) An insurance undertaking shall retain a record of the decision referred to in paragraph (1)."
+          },
+          {
+            "id": "section_365",
+            "title": "365. Minimum period for acceptance or rejection of a claim settlement offer",
+            "content": "(1) An insurance undertaking shall allow a claimant at least 10 working days to accept or reject a claim settlement offer unless this right is waived by the claimant. (2) Where a claimant waives this right as provided for in paragraph (1), the insurance undertaking shall retain a record of the claimant’s decision. (3) This Regulation does not apply – List: in the case of surrender or encashment of insurance-based investment products,; to claims on policies falling within paragraph (b) of the definition of “protection policies” where the settlement amount is set out in the policy’s terms and conditions, or; to a claimant falling within paragraph (b) of the definition of “claimant” who has issued legal proceedings in respect of their claim."
+          },
+          {
+            "id": "section_366",
+            "title": "366. Settlement of claim",
+            "content": "(1) Where a claimant has agreed to accept the offer made by an insurance undertaking to settle a claim or, where applicable, that part of a claim that has been quantified, the insurance undertaking shall pay the claim settlement offer to the claimant within 10 working days from the date on which the claimant agreed to accept the offer notwithstanding that legal costs, where applicable, may not yet have been agreed. (2) Where a method of direct settlement is being applied, the insurance undertaking shall discharge any claim without delay."
+          },
+          {
+            "id": "section_367",
+            "title": "367. Insurance undertaking to publish details of appeals mechanism",
+            "content": "(1) An insurance undertaking shall publish details of any appeals mechanism it provides in respect of decisions regarding claims on its website. (2) An insurance undertaking shall provide the details referred to in paragraph (1) to claimants on paper or on another durable medium on request. A request under this paragraph (2) shall be facilitated within 5 working days."
+          },
+          {
+            "id": "section_368",
+            "title": "368. Information concerning settlement where a consumer policyholder is not the beneficiary",
+            "content": "(1) Where a policyholder who is a consumer is not the beneficiary of a settlement, the insurance undertaking shall advise the policyholder at the time that settlement is made, on paper or on another durable medium, of the following: List: subject to paragraph (2), the amount for which the claim has been settled and the reason or reasons for it being settled;; where applicable, that the settlement of the claim will affect future insurance contracts entered into by the policyholder of the type that was the subject of the settlement. (2) Paragraph (1)(a) does not apply to a claim in respect of which section 16(4)(d) of the Act of 2019 applies."
           }
         ]
       }
